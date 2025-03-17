@@ -1,1 +1,1 @@
-# wbs-exercises
+# wbs-primer-excercises
