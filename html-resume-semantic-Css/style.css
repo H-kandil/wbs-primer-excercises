@@ -6,6 +6,16 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #f7f0de;
 }
+div {
+    animation: mymove 3s ease-in-out;
+    position: relative;
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {right: 200px;}
+
+}
+
 
 header{
     padding: 2rem 4rem;
