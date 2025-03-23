@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 10px;
+}
+
+header {
+    background:radial-gradient(circle, rgb(235, 72, 142) 0%, rgba(148,187,233,1) 100%);
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: left; padding: 15px;
+}
+
+.head-paragraph {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+    background-color: #e3f0fd;
+}
+
+img {
+    width: 100% ;
+    height: auto;
+    display: block;
+}
+
+.fig1, .fig2, .fig3, .fig4 {
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #e3f0fd;
+    color: #d53d7f;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 0;
+    color: #d53d7f;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px 0;
+    color: #d53d7f;
+}
+
+.get {
+    background-color: #d53d7f;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.bottom {
+    background-color: #d53d7f;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+
+
+/* Try to make a small change every day. In the end, you will be surprised by the result. */
