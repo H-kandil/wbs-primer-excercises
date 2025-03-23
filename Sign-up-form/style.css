@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f1f1f1;
+}
+
+#username {
+    width: 100%;
+    padding: 300px;
+    margin: 50px 4rem;
+    border: 40px solid #b93a3a;
+    border-radius: 5px;
+}
+
+
