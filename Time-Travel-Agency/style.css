@@ -60,5 +60,31 @@ a {
     float: left;
 }
 
+.gallery-grid img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
 
+
+
+    .section {
+        flex-direction: column;
+    }
+
+    
+    .gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    footer {
+        background: rgb(69, 68, 68);
+        color: rgb(243, 197, 16);
+        padding: 1rem;
+        text-align: center;
+        font-size: 1rem;
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+    }
 
